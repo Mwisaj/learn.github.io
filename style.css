@@ -1,0 +1,115 @@
+li,ol{
+    display: inline;
+    spacing: 20px;
+    padding-left:10px;
+    text-align: center;
+}
+a:hover{
+    background-color: yellow;
+    border-radius:10px;
+}
+ol{
+    diplay: block-inline;
+}
+body{
+    background-color:black;
+}
+.home{
+    diplay:inline;
+    background-color:white;
+    color:white;
+    padding: 30px;
+    font-size: 20px;
+}
+.heading1,h1{
+    text-align:center;
+    color: yellow;
+    border:5px;
+    margin-top: 60px;
+    opacity: 10px;
+    stroke: white;
+    text-transformtion4: captalize;
+    text-shadow: 10px;
+    
+}
+hr{
+    color: blue;
+}
+.header{
+    text-decoration:none;
+    text-align:center;
+    display:list-item;
+    border-radius:2px;
+    position: sticky;
+    padding: 30px;
+}
+button{
+   
+    margin-right: 30px;
+    color: yellow;
+    border-radius:30px;
+    border-color: white-smoke;
+    text-align:center;
+    margin: 50px;
+    text-align:center;
+    background-color: blue;
+}
+button:hover{
+    color: white-smoke;
+    
+}
+a{
+    text-decoration:none;
+    color:skyblue;
+    diplay: inline;
+    font-weight:50px;
+    font-size:15px;
+    list-item:none;
+}
+
+container{
+    background-image:url(" ../image/student.jpg")
+    position:cover;
+}
+input[search]:hover{
+    text-align: center;
+    color: grey;
+   
+}
+input[search]{
+    border:20px;
+    color: green;
+    width: 400px;
+    text-align:center;
+    border-radius: 30px;
+    border-color: yellow;
+}
+.otherContent{
+    border: 10px
+    
+    
+}
+.button{
+    text-align:center;
+    margin-top: 60px;
+    color:  ;
+}
+label{
+    color: white;
+}
+input[email]{
+    border-radius:20px;
+    padding-buttom: 5x;
+    margin:40px;
+}
+input[text]{
+    border-radius: 20px;
+    padding
+}
+.signup{
+    text-align: center;
+    margin: auto;
+    border-radius: 2px;
+    border-color: white;
+    margin-top: 50px;
+}
